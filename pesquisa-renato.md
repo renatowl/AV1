@@ -1,4 +1,3 @@
-AULA GIT2
 
 # Git 
 
