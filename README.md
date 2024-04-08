@@ -33,3 +33,8 @@ Fonte: [clique aqui](https://en.wikipedia.org/wiki/GitHub)
 - Origem: Em 18 de novembro de 2015, o Visual Studio Code foi lançado e o seu código-fonte foi postado no GitHub.
 - O que é?: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.
 - Como funciona?: O Visual Studio Code é baseado no Electron, um framework que é usado para desenvolver aplicativos Node.js para o desktop rodando no motor de layout Blink.
+
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOTIV4Tb4h16YNEwanHL3esW2nwwumHYqAFgcVaMUOw&s"
+width="300"/>
+
+Fonte: [clique aqui](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
