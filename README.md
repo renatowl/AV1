@@ -1,10 +1,14 @@
-# AV1
+AULA GIT2
 
-- Slides Indústrias 4.0 [clique aqui](https://www.canva.com/design/DAF9XAlPddI/6htuWvs2VkmXyptgwL6cTw/edit?utm_content=DAF9XAlPddI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-#### Slides sobre Inovações na Educação 4.0
+# Git 
 
- - Protótipos Mobile [clique aqui](https://www.canva.com/design/DAF-rOew8rc/T8fOueYV8UFw2ZTlkvDV1Q/edit?utm_content=DAF-rOew8rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-#### Slides sobre um protótipo de um app de banco
+- Origem: O git foi criado em 2005,por Linus Torvalds (criador do núcleo, ou kernel, do SO Linux).
+- O que é?: O git é um sistema de projetos de codigos aberto, seu propósito é levar regsitros de manuntenções e organizar trabalhos de várias pessoas ao mesmo tempo em um repositório.
+- Como funciona?: Ele usa projetos de dados que ajuda a proteger a integridade criptográfica de coisas presentes dentro de um repositório.
 
-- Aula MarkDown [clique aqui](https://github.com/renatowl/aulaMarkdown)
-#### Atividade sobre Engenharia de requisitos
+![coisinha](https://grupobcc.com/wp/wp-content/uploads/2015/05/Linus-Torvald-speaker-keynote-linus-conferencias-e1598521766183-940x660.jpg) ![git](https://media.licdn.com/dms/image/D4D12AQFuCKCScEbmig/article-cover_image-shrink_720_1280/0/1681135229721?e=2147483647&v=beta&t=5frFPpiL6iZ24UN3EfWOkmWA-_1ONxN7RKNeVH-5Efc)
+
+
+<img src= "https://grupobcc.com/wp/wp-content/uploads/2015/05/Linus-Torvald-speaker-keynote-linus-conferencias-e1598521766183-940x660.jpg"
+width="300px"/>
+
